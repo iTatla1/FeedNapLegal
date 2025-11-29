@@ -23,7 +23,7 @@ Please include:
 
 You can read the full Privacy Policy for FeedNap here:
 
-[View Privacy Policy](https://itatla1.github.io/FeedNap/privacy-policy)
+[View Privacy Policy](https://itatla1.github.io/FeedNapLegal/privacy-policy)
 
 ---
 
@@ -31,4 +31,4 @@ You can read the full Privacy Policy for FeedNap here:
 
 You can read the full Terms of Service for FeedNap here:
 
-[View Terms of Service](https://itatla1.github.io/FeedNap/terms-of-service)
+[View Terms of Service](https://itatla1.github.io/FeedNapLegal/terms-of-service)
